@@ -1,0 +1,22 @@
+label {
+    display: block;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+.Sky{
+    border-color: rgb(255, 132, 152);
+    margin-left: 40px;
+    padding: 5px;
+    border-radius: 10px;
+    color: crimson;
+    display: inline-block;
+}
+fieldset {
+    margin: 40px;
+    padding: 15px;
+    background-color:antiquewhite;
+    border-color:crimson;
+    border-radius: 10px;
+    color: rgb(250, 94, 177);
+    font-style: oblique;
+    }
